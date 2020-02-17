@@ -36,6 +36,7 @@ public class DeptController_Consumer {
 	
 	public void test() {
 		System.out.println("test");
+		System.out.println("在idea中写的代码");
 	}
 
 }
